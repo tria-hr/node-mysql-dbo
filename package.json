@@ -1,0 +1,29 @@
+{
+  "name": "node-mysql-dbo",
+  "version": "0.0.1",
+  "description": "MySQL DB Objects for node.js",
+  "main": "lib/database.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tria-hr/node-mysql-dbo.git"
+  },
+  "keywords": [
+    "mysql",
+    "dbo"
+  ],
+  "author": {
+    "email": "davor@tria.hr",
+    "name": "Davor Tarandek"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tria-hr/node-mysql-dbo/issues"
+  },
+  "homepage": "https://github.com/tria-hr/node-mysql-dbo#readme",
+  "dependencies": {
+    "mysql": "^2.10.2"
+  }
+}
